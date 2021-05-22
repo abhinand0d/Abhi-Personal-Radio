@@ -1,0 +1,38 @@
+div {
+    background-color: grey;
+    border: 5px;
+    border-style: solid;
+    width: 300;
+    height: 300;
+    margin: 10px;
+    border-radius: 3cm;
+}
+
+code {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.Radio1 {
+    float: left;
+    margin: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 50px;
+}
+
+.Radio2 {
+    float: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 50px;
+}
+
+h1 {
+    padding-left: 50px;
+}
+.ClubFM {
+    padding: 10px;
+    padding-left: 50px;
+}

@@ -1,0 +1,26 @@
+Radio Mirchi 98.3 FM - It's Hot
+https://radioindia.net/radio/mirchi98/icecast.audio
+
+Suriyan 93.5 FM - Are Your ears turned in? - Malayalam FM
+https://str2b.openstream.co/1451
+
+All India Radio Tamil - mOKKA
+https://radioindia.net/radio/air_tamil_radio/icecast.audio
+
+Radio City Tamil
+https://prclive4.listenon.in/Tamil
+
+VanavilFM - From France - mOKKA
+https://s7.yesstreaming.net:9000/stream
+
+Radio IBC Tamil
+https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3
+
+Radio Mirchi Tamil Hits
+blob:https://onlineradiofm.in/8092978b-56fb-4bc1-aabb-75bdd10ce814
+
+Hello 106.4 FM
+https://node-35.zeno.fm/7a3d4s28ptzuv
+
+Radio Njan Malayali MIX
+https://radioindia.net/radio/njanmix/icecast.audio
